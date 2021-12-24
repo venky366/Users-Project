@@ -1,0 +1,34 @@
+.Heder-Css{
+   background-color: #c3b1c5;
+   background-size: 10%;
+   color: khaki;
+   height: 100px;
+   padding: 5px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  
+  
+}
+
+#Footer-css{
+    background-color: #182157;
+    position: absolute;
+    color: khaki;
+    bottom: 0;
+    width: 100%;
+    padding: 0.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+
+}
+input[type=text]:focus{
+    width :200px;
+    padding: 6px;
+    border: grey;
+    
+    
+}
